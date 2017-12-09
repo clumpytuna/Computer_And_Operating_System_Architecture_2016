@@ -1,0 +1,39 @@
+mining_time = 1
+
+movement_health_drop = 3
+
+Map 20x20
+######################
+#                    #
+#                    #
+#                    #
+#                    #
+#                    #
+#                    #
+#         #####      #
+#         #          #
+#         #####      #
+#             #      #
+#             #      #
+#        ######      #
+#        #           #
+#        #           #
+#      ###           #
+#      #             #
+#      #             #
+#      #             #
+#      #             #
+#      #             #
+######################
+
+stay_health_drop = 1
+initial_health     = 1000
+hit_value = 30
+recharge_duration =  0.3
+moratory_duration = 8
+step_standard_delay = 0.1
+
+items:
+1 1 10
+20 20 -10
+2 3 8
